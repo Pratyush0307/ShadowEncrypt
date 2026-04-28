@@ -88,5 +88,6 @@ This repository is published to support understanding of ransomware mechanics so
 ---
 
 ## Author
-Cybersecurity Research Project  
-Malware Analysis / Defensive Security PoC
+Pratyush Mohanty <br>
+Cybersecurity Research Project  <br>
+Malware Analysis / Defensive Security PoC <br>
