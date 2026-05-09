@@ -1,6 +1,6 @@
 # ShadowEncrypt-Windows-PoC
 
-## ⚠ CRITICAL WARNING
+## ⚠ WARNING
 
 `locker.exe` is a ransomware behavior proof-of-concept executable.
 
