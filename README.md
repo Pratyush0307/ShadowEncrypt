@@ -140,6 +140,6 @@ Any misuse of this project is strictly prohibited.
 ---
 
 # Author
-Pratyush Mohanty
+Pratyush Mohanty <br>
 Cybersecurity Research Project  
 Windows Malware Behavior PoC  
